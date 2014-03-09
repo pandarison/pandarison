@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Diary | Yi's Blog]]></title>
+  <link href="http://blog.mrchenyi.com/blog/categories/diary/atom.xml" rel="self"/>
+  <link href="http://blog.mrchenyi.com/"/>
+  <updated>2014-03-09T10:25:05+00:00</updated>
+  <id>http://blog.mrchenyi.com/</id>
+  <author>
+    <name><![CDATA[Yi]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[I Received My Degree]]></title>
+    <link href="http://blog.mrchenyi.com/blog/2013/11/29/i-received-my-degree/"/>
+    <updated>2013-11-29T19:31:06+00:00</updated>
+    <id>http://blog.mrchenyi.com/blog/2013/11/29/i-received-my-degree</id>
+    <content type="html"><![CDATA[<p>I&rsquo;ve just noticed that I was awarded a <em>Distinction</em> for my Master&rsquo;s degree. I am very excited  because it&rsquo;s not very easy, especially for an overseas student whose first language is not English.</p>
+
+<!-- more -->
+
+
+<p><img class="left" src="/files/graduation.jpg" width="166" height="250" title="Place Kitten #3" ></p>
+
+<p>I can remember the hard time during the exam session, I sometimes worked day and night for the purpose of getting the highest mark as possible, and the teamwork with some of my classmates and friends, which is very interesting and valuable.</p>
+
+<p>Now I&rsquo;ve got what I want, and will continue to work hard to achieve my next goal.</p>
+
+<br /><br /><br /><br /><br />
+
+]]></content>
+  </entry>
+  
+</feed>
