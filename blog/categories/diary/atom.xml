@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Diary | Yi's Blog]]></title>
-  <link href="http://blog.mrchenyi.com/blog/categories/diary/atom.xml" rel="self"/>
-  <link href="http://blog.mrchenyi.com/"/>
-  <updated>2014-03-09T10:25:05+00:00</updated>
-  <id>http://blog.mrchenyi.com/</id>
+  <link href="http://blog.mrchenyi.com/pandarison/blog/categories/diary/atom.xml" rel="self"/>
+  <link href="http://blog.mrchenyi.com/pandarison/"/>
+  <updated>2014-04-29T14:41:27+00:00</updated>
+  <id>http://blog.mrchenyi.com/pandarison/</id>
   <author>
     <name><![CDATA[Yi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[I Received My Degree]]></title>
-    <link href="http://blog.mrchenyi.com/blog/2013/11/29/i-received-my-degree/"/>
+    <link href="http://blog.mrchenyi.com/pandarison/blog/2013/11/29/i-received-my-degree/"/>
     <updated>2013-11-29T19:31:06+00:00</updated>
-    <id>http://blog.mrchenyi.com/blog/2013/11/29/i-received-my-degree</id>
+    <id>http://blog.mrchenyi.com/pandarison/blog/2013/11/29/i-received-my-degree</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve just noticed that I was awarded a <em>Distinction</em> for my Master&rsquo;s degree. I am very excited  because it&rsquo;s not very easy, especially for an overseas student whose first language is not English.</p>
 
 <!-- more -->

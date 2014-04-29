@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Blog | Yi's Blog]]></title>
-  <link href="http://blog.mrchenyi.com/blog/categories/blog/atom.xml" rel="self"/>
-  <link href="http://blog.mrchenyi.com/"/>
-  <updated>2014-03-09T10:25:05+00:00</updated>
-  <id>http://blog.mrchenyi.com/</id>
+  <link href="http://blog.mrchenyi.com/pandarison/blog/categories/blog/atom.xml" rel="self"/>
+  <link href="http://blog.mrchenyi.com/pandarison/"/>
+  <updated>2014-04-29T14:41:27+00:00</updated>
+  <id>http://blog.mrchenyi.com/pandarison/</id>
   <author>
     <name><![CDATA[Yi]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Introduction to My New Blog]]></title>
-    <link href="http://blog.mrchenyi.com/blog/2013/11/29/introduction-to-my-new-blog/"/>
+    <link href="http://blog.mrchenyi.com/pandarison/blog/2013/11/29/introduction-to-my-new-blog/"/>
     <updated>2013-11-29T18:24:55+00:00</updated>
-    <id>http://blog.mrchenyi.com/blog/2013/11/29/introduction-to-my-new-blog</id>
+    <id>http://blog.mrchenyi.com/pandarison/blog/2013/11/29/introduction-to-my-new-blog</id>
     <content type="html"><![CDATA[<p>I have had two blogs in the past. I enjoy blogging and have the motivation to blog, but the problem is lack of materials to write. Now I get to know that the number of posts isn&rsquo;t that important, and have decided to start my new journey of blogging.</p>
 
 <!-- more -->

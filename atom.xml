@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Yi's Blog]]></title>
-  <link href="http://blog.mrchenyi.com/atom.xml" rel="self"/>
-  <link href="http://blog.mrchenyi.com/"/>
-  <updated>2014-03-09T10:25:05+00:00</updated>
-  <id>http://blog.mrchenyi.com/</id>
+  <link href="http://blog.mrchenyi.com/pandarison/atom.xml" rel="self"/>
+  <link href="http://blog.mrchenyi.com/pandarison/"/>
+  <updated>2014-04-29T14:41:27+00:00</updated>
+  <id>http://blog.mrchenyi.com/pandarison/</id>
   <author>
     <name><![CDATA[Yi]]></name>
     
@@ -15,42 +15,42 @@
   
   <entry>
     <title type="html"><![CDATA[日志：软件工程师都应知道的有关实时数据的统一概念]]></title>
-    <link href="http://blog.mrchenyi.com/blog/2014/02/11/ri-zhi-mei-ge-ruan-jian-gong-cheng-shi-du-ying-gai-zhi-dao-de-you-guan-shi-shi-shu-ju-de-tong-yi-gai-nian/"/>
+    <link href="http://blog.mrchenyi.com/pandarison/blog/2014/02/11/ri-zhi-mei-ge-ruan-jian-gong-cheng-shi-du-ying-gai-zhi-dao-de-you-guan-shi-shi-shu-ju-de-tong-yi-gai-nian/"/>
     <updated>2014-02-11T10:46:25+00:00</updated>
-    <id>http://blog.mrchenyi.com/blog/2014/02/11/ri-zhi-mei-ge-ruan-jian-gong-cheng-shi-du-ying-gai-zhi-dao-de-you-guan-shi-shi-shu-ju-de-tong-yi-gai-nian</id>
+    <id>http://blog.mrchenyi.com/pandarison/blog/2014/02/11/ri-zhi-mei-ge-ruan-jian-gong-cheng-shi-du-ying-gai-zhi-dao-de-you-guan-shi-shi-shu-ju-de-tong-yi-gai-nian</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[身为码农，为 12306 说两句公道话]]></title>
-    <link href="http://blog.mrchenyi.com/blog/2014/01/12/shen-wei-ma-nong-%2Cwei-12306-shuo-liang-ju-gong-dao-hua/"/>
+    <link href="http://blog.mrchenyi.com/pandarison/blog/2014/01/12/shen-wei-ma-nong-%2Cwei-12306-shuo-liang-ju-gong-dao-hua/"/>
     <updated>2014-01-12T05:08:27+00:00</updated>
-    <id>http://blog.mrchenyi.com/blog/2014/01/12/shen-wei-ma-nong-,wei-12306-shuo-liang-ju-gong-dao-hua</id>
+    <id>http://blog.mrchenyi.com/pandarison/blog/2014/01/12/shen-wei-ma-nong-,wei-12306-shuo-liang-ju-gong-dao-hua</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[4G之下，中移动危险大跃进]]></title>
-    <link href="http://blog.mrchenyi.com/blog/2014/01/02/4gzhi-xia-%2Czhong-yi-dong-wei-xian-da-yue-jin/"/>
+    <link href="http://blog.mrchenyi.com/pandarison/blog/2014/01/02/4gzhi-xia-%2Czhong-yi-dong-wei-xian-da-yue-jin/"/>
     <updated>2014-01-02T15:07:52+00:00</updated>
-    <id>http://blog.mrchenyi.com/blog/2014/01/02/4gzhi-xia-,zhong-yi-dong-wei-xian-da-yue-jin</id>
+    <id>http://blog.mrchenyi.com/pandarison/blog/2014/01/02/4gzhi-xia-,zhong-yi-dong-wei-xian-da-yue-jin</id>
     <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[I Received My Degree]]></title>
-    <link href="http://blog.mrchenyi.com/blog/2013/11/29/i-received-my-degree/"/>
+    <link href="http://blog.mrchenyi.com/pandarison/blog/2013/11/29/i-received-my-degree/"/>
     <updated>2013-11-29T19:31:06+00:00</updated>
-    <id>http://blog.mrchenyi.com/blog/2013/11/29/i-received-my-degree</id>
+    <id>http://blog.mrchenyi.com/pandarison/blog/2013/11/29/i-received-my-degree</id>
     <content type="html"><![CDATA[<p>I&rsquo;ve just noticed that I was awarded a <em>Distinction</em> for my Master&rsquo;s degree. I am very excited  because it&rsquo;s not very easy, especially for an overseas student whose first language is not English.</p>
 
 <!-- more -->
 
 
-<p><img class="left" src="http://blog.mrchenyi.com/files/graduation.jpg" width="166" height="250" title="Place Kitten #3" ></p>
+<p><img class="left" src="http://blog.mrchenyi.com/pandarison/files/graduation.jpg" width="166" height="250" title="Place Kitten #3" ></p>
 
 <p>I can remember the hard time during the exam session, I sometimes worked day and night for the purpose of getting the highest mark as possible, and the teamwork with some of my classmates and friends, which is very interesting and valuable.</p>
 
@@ -63,9 +63,9 @@
   
   <entry>
     <title type="html"><![CDATA[Introduction To My New Blog]]></title>
-    <link href="http://blog.mrchenyi.com/blog/2013/11/29/introduction-to-my-new-blog/"/>
+    <link href="http://blog.mrchenyi.com/pandarison/blog/2013/11/29/introduction-to-my-new-blog/"/>
     <updated>2013-11-29T18:24:55+00:00</updated>
-    <id>http://blog.mrchenyi.com/blog/2013/11/29/introduction-to-my-new-blog</id>
+    <id>http://blog.mrchenyi.com/pandarison/blog/2013/11/29/introduction-to-my-new-blog</id>
     <content type="html"><![CDATA[<p>I have had two blogs in the past. I enjoy blogging and have the motivation to blog, but the problem is lack of materials to write. Now I get to know that the number of posts isn&rsquo;t that important, and have decided to start my new journey of blogging.</p>
 
 <!-- more -->

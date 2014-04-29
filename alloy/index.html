@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <title>SD2Alloy</title>
+    <meta name="generator" content="Bootply" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css" rel="stylesheet">
+
+    <!--[if lt IE 9]>
+          <script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <![endif]-->
+
+    <style type="text/css">
+        body {
+        	padding-top:50px;
+        }
+        
+        #masthead {
+        	min-height:250px;
+        }
+        
+        #masthead h1 {
+        	font-size: 30px;
+        	line-height: 1;
+          	padding-top:20px;
+        }
+        
+        #masthead .well {
+        	margin-top:8%;
+        }
+        
+        @media screen and (min-width: 768px) {
+        	#masthead h1 {
+        		font-size: 50px;
+        	}
+        }
+        
+        .navbar-bright {
+        	background-color:#111155;
+            color:#fff;
+        }
+        
+        .affix-top,.affix{
+        	position: static;
+        }
+        
+        @media (min-width: 979px) {
+          #sidebar.affix-top {
+            position: static;
+          	margin-top:30px;
+          	width:228px;
+          }
+          
+          #sidebar.affix {
+            position: fixed;
+            top:70px;
+            width:228px;
+          }
+        }
+        
+        #sidebar li.active {
+          	border:0 #eee solid;
+          	border-right-width:4px;
+        }
+    </style>
+</head>
+
+<!-- HTML code from Bootply.com editor -->
+
+<body>
+
+
+    <header class="navbar navbar-default navbar-fixed-top" role="banner">
+        <div class="container">
+            <div class="navbar-header">
+                <button class="navbar-toggle" type="button" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a href="/" class="navbar-brand">SD2Alloy</a>
+            </div>
+            <nav class="collapse navbar-collapse" role="navigation">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#sec">Get Started</a>
+                    </li>
+                    <li>
+                        <a href="#sec">Documentation</a>
+                    </li>
+                    <li>
+                        <a href="#sec">Publications</a>
+                    </li>
+                    <li>
+                        <a href="#sec">Contact</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <div id="masthead">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-7">
+                    <h1>SD2Alloy
+                        <p class="lead">An Eclipse Plugin</p>
+                    </h1>
+                </div>
+                <div class="col-md-5">
+                    <div class="well well-lg">
+                        <div class="row">
+                            <div class="col-sm-6">
+                                <img src="images/splash.bmp" class="img-responsive">
+                            </div>
+                            <div class="col-sm-6" style="padding-left: 0px">
+                                <ul>
+                                    <li>An Eclipse Plugin</li>
+                                    <li>Transform SD to Alloy</li>
+                                    <li>Merge multiple SDs</li>
+                                    <li>Built-in diagram editor</li>
+                                    <li>Built-in Alloy tool set</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /cont -->
+    </div>
+
+    <!-- Begin Body -->
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3" id="leftCol">
+
+                <ul class="nav nav-stacked" id="sidebar">
+                    <li>
+                        <a href="#sec0">Section 0</a>
+                    </li>
+                    <li>
+                        <a href="#sec1">Section 1</a>
+                    </li>
+                    <li>
+                        <a href="#sec2">Section 2</a>
+                    </li>
+                    <li>
+                        <a href="#sec3">Section 3</a>
+                    </li>
+                    <li>
+                        <a href="#sec4">Section 4</a>
+                    </li>
+                </ul>
+
+            </div>
+            <div class="col-md-9">
+                <h2 id="sec0">Introduction</h2>
+                SD2Alloy presents a novel automatic composition technique for sequence diagrams with the help of Alloy. The process of the composition works as follows: two given sequence diagrams are transformed in two Alloy models, which create logical constraints that uniquely characterise each model by restricting the metamodels and then combined according to a compositional glue which specifies how the models should be glued together to produce the intended composition
+
+
+
+
+
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <script type='text/javascript' src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+
+
+    <script type='text/javascript' src="//netdna.bootstrapcdn.com/bootstrap/3.0.3/js/bootstrap.min.js"></script>
+
+
+
+
+
+
+    <!-- JavaScript jQuery code from Bootply.com editor -->
+
+    <script type='text/javascript'>
+        $(document).ready(function() {
+        
+            $('#sidebar').affix({
+      offset: {
+        top: 235
+      }
+});
+
+var $body   = $(document.body);
+var navHeight = $('.navbar').outerHeight(true) + 10;
+
+$body.scrollspy({
+	target: '#leftCol',
+	offset: navHeight
+});
+
+/* smooth scrolling sections */
+$('a[href*=#]:not([href=#])').click(function() {
+    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+      if (target.length) {
+        $('html,body').animate({
+          scrollTop: target.offset().top - 50
+        }, 1000);
+        return false;
+      }
+    }
+});
+        
+        });
+    </script>
+
+</body>
+
+</html>
