@@ -4,7 +4,7 @@
   <title><![CDATA[Yi's Blog]]></title>
   <link href="http://blog.mrchenyi.com/pandarison/atom.xml" rel="self"/>
   <link href="http://blog.mrchenyi.com/pandarison/"/>
-  <updated>2014-04-29T14:41:27+00:00</updated>
+  <updated>2014-05-18T12:29:51+00:00</updated>
   <id>http://blog.mrchenyi.com/pandarison/</id>
   <author>
     <name><![CDATA[Yi]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[你应该知道的10种软件工具]]></title>
+    <link href="http://blog.mrchenyi.com/pandarison/blog/2014/05/18/ni-ying-gai-zhi-dao-de-10chong-ruan-jian-gong-ju/"/>
+    <updated>2014-05-18T12:28:55+00:00</updated>
+    <id>http://blog.mrchenyi.com/pandarison/blog/2014/05/18/ni-ying-gai-zhi-dao-de-10chong-ruan-jian-gong-ju</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[日志：软件工程师都应知道的有关实时数据的统一概念]]></title>
