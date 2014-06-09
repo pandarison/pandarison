@@ -4,7 +4,7 @@
   <title><![CDATA[Category: Share | Yi's Blog]]></title>
   <link href="http://blog.mrchenyi.com/pandarison/blog/categories/share/atom.xml" rel="self"/>
   <link href="http://blog.mrchenyi.com/pandarison/"/>
-  <updated>2014-05-18T12:29:51+00:00</updated>
+  <updated>2014-06-09T10:46:16+00:00</updated>
   <id>http://blog.mrchenyi.com/pandarison/</id>
   <author>
     <name><![CDATA[Yi]]></name>
@@ -12,6 +12,15 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Explore Flask]]></title>
+    <link href="http://blog.mrchenyi.com/pandarison/blog/2014/06/09/explore-flask/"/>
+    <updated>2014-06-09T10:45:43+00:00</updated>
+    <id>http://blog.mrchenyi.com/pandarison/blog/2014/06/09/explore-flask</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[你应该知道的10种软件工具]]></title>
